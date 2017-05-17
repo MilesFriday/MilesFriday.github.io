@@ -1,4 +1,4 @@
-# MilesFriday.github.io
+
 <html>
 <head>
 <title>Miles Jefferson Friday</title>
